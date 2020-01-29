@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\bin\Debug\netcoreapp3.1\SumasSucesivas.exe
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\bin\Debug\netcoreapp3.1\SumasSucesivas.deps.json
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\bin\Debug\netcoreapp3.1\SumasSucesivas.runtimeconfig.json
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\bin\Debug\netcoreapp3.1\SumasSucesivas.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\bin\Debug\netcoreapp3.1\SumasSucesivas.dll
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\bin\Debug\netcoreapp3.1\SumasSucesivas.pdb
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\obj\Debug\netcoreapp3.1\SumasSucesivas.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\obj\Debug\netcoreapp3.1\SumasSucesivas.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\obj\Debug\netcoreapp3.1\SumasSucesivas.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\obj\Debug\netcoreapp3.1\SumasSucesivas.dll
+C:\Users\Admin\source\repos\HolaMundo\SumasSucesivas\obj\Debug\netcoreapp3.1\SumasSucesivas.pdb
